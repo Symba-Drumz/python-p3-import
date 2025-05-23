@@ -242,3 +242,15 @@ pull using the `pip` command which we will learn more about in the following les
 
 - [Python 3 Documentation](https://docs.python.org/3/)
 - [Python import system](https://docs.python.org/3/reference/import.html)
+
+***
+
+## Running the Demonstration Script
+
+To see the absolute and relative imports in action, run the following command from the root directory:
+
+```bash
+python3 -m lib.testing.module_test
+```
+
+This will output the results of the import demonstrations.
